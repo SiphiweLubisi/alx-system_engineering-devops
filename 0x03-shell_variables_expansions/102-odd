@@ -1,3 +1,2 @@
-#l/bin/bash
-tr'echo (a. z) | tr-d'" 'echo (n. z) S(echo (a m) | tr-d*** | tr 'echo (A
-S(echo (A. MY) | tr-d'*
+#!/bin/bash
+paste -d, - - | cut -d, -f1
